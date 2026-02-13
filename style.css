@@ -1,11 +1,17 @@
 body {
-    background-color: rgb(228, 220, 220);
+    background-color: rgb(22, 4, 4);
     h1{
-        color: rgb(8, 8, 192);
+        color: rgb(250, 241, 241);
         font-size:100px;
+        text-align: start;
             }
+    h2{
+        color: rgb(217, 27, 27);
+        font-size:80px;
+    text-align: center;        
+    }
     p{font-size:50px;}
-    color: rgb(192, 8, 8);
+    color: rgb(8, 192, 112);
     text-align: center;
     font-family: Arial, sans-serif;
     padding-top: 200px;
