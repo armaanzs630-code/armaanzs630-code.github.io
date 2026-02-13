@@ -1,3 +1,3 @@
 function changeText() {
-    alert("Jaa re lavde!");
+    alert("Jaa re lavde!!");
 }
